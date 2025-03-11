@@ -16,6 +16,7 @@ class Solution:
 s = "abcabc"
 
 solution = Solution()
+print("Your string is : ",s)
 print(solution.numberOfSubstrings(s))
 
 
