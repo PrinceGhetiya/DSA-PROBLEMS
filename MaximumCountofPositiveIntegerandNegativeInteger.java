@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 class Solution {
     public int maximumCount(int[] nums) {
         int positiveCount = 0;
